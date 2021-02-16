@@ -1,7 +1,15 @@
-body{
-    font-family: open sans, sans-serif 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: royalblue;
 }
-
-header{
-    background-color:red;
+h2 {
+  background-color: none;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+button {
+  background-color: red;
+  padding: 8px;
+  border: none;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: white;
 }
